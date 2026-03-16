@@ -23,7 +23,7 @@ Just as a Swiss knife combines specialized tools (a saw for heavy cutting, tweez
 
 Together, these modules demonstrate a **full-stack capability** for Earth observation science: integrating **physical principles**, **big-data engineering**, and **machine learning** within one coherent toolkit.
 
-*Note: This repository serves as a curated code portfolio for my Postdoctoral application at the University of Zurich (UZH).*
+**Publication milestone**: The paper *Quantifying angular sensitivity and synergistic effects of SIF and vegetation indices for robust winter wheat yield estimation* has been published. A full-text PDF is included in this repository: [Read the paper (PDF)](./07_mnet_crop_yield_prediction/Quantifying%20angular%20sensitivity%20and%20synergistic%20effects%20of%20SIF%20and%20vegetation%20indices%20for%20robust%20winter%20wheat%20yield%20estimation.pdf).
 
 ---
 
